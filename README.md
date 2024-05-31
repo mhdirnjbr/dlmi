@@ -1,4 +1,4 @@
-# Using temporal GAN to translate the current CTP scan to follow-up MRI, for predicting final AIS lesions
+<!-- # Using temporal GAN to translate the current CTP scan to follow-up MRI, for predicting final AIS lesions -->
 ![poster](poster.png)
 
 ## Reference
